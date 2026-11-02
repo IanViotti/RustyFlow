@@ -1,0 +1,14 @@
+C:\Users\Ian Viotti\Rust_CFD\RustyFlow\target\debug\deps\serde-87e7de53eea58254.d: C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Ian\ Viotti\Rust_CFD\RustyFlow\target\debug\build\serde-23795b5a30bb9d6f\out/private.rs
+
+C:\Users\Ian Viotti\Rust_CFD\RustyFlow\target\debug\deps\libserde-87e7de53eea58254.rlib: C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Ian\ Viotti\Rust_CFD\RustyFlow\target\debug\build\serde-23795b5a30bb9d6f\out/private.rs
+
+C:\Users\Ian Viotti\Rust_CFD\RustyFlow\target\debug\deps\libserde-87e7de53eea58254.rmeta: C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Ian\ Viotti\Rust_CFD\RustyFlow\target\debug\build\serde-23795b5a30bb9d6f\out/private.rs
+
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Users\Ian\ Viotti\Rust_CFD\RustyFlow\target\debug\build\serde-23795b5a30bb9d6f\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Ian Viotti\\Rust_CFD\\RustyFlow\\target\\debug\\build\\serde-23795b5a30bb9d6f\\out

@@ -1,0 +1,10 @@
+C:\Users\Ian Viotti\Rust_CFD\RustyFlow\target\debug\deps\crc32fast-c0ddb8b60f4d193f.d: C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+C:\Users\Ian Viotti\Rust_CFD\RustyFlow\target\debug\deps\libcrc32fast-c0ddb8b60f4d193f.rmeta: C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs:
+C:\Users\Ian\ Viotti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs:

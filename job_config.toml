@@ -1,0 +1,24 @@
+# ===================================================
+# RustyFlow Mesh Configuration (Compatible with RustyMesher)
+# ===================================================
+
+meshname = "naca0012_poisson"
+airfoil_type = "NACA00XX"
+t = 0.12
+r_max = 20.0
+
+longitudinal_points = 213
+normal_points = 65
+stretching_factor = 1.04
+q = 1.07
+
+omega = 1.3
+alpha_l = 0.5
+alpha_h = 20.0
+max_iter = 1500
+conv_criterion = 1e-6
+
+[elliptic_equation.Poisson]
+ds_wall = 0.005
+a_decay = 1.5
+b_decay = 1.5
